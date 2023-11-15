@@ -1,4 +1,4 @@
-# EXNO-08-Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+# EXNO-07-Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
